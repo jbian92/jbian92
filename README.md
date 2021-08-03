@@ -5,7 +5,7 @@
 
 ## Tech Roulette Projects
 Execute Big's Tech Roulette program allows participants to explore different fields of technology through building a randomly selected project every week.
-- To Do List application using React: https://github.com/jbian92/To-Do-List 
+- To-Do List application using React: https://github.com/jbian92/To-Do-List 
 - Netflix Data Visualization using Python Pyplot: https://github.com/jbian92/Netflix-Data-Visualization 
 - Titanic Shipwreck Model using machine learning and Kaggle's Titanic data set: https://github.com/jbian92/Titanic-Shipwreck-Model 
 - Flappy Bird game using Kaboom.js: https://github.com/jbian92/Flappy-Bird

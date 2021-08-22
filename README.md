@@ -1,9 +1,8 @@
 # Hi, I'm Julia 👋
 - 🏫 CS sophomore at Johns Hopkins University
-- 📖 always hungry to learn new things
-- 💻 currently participating in Tech Roulette to expand my technology knowledge
+- 📖 always hungry to learn new things, especially anything tech-related
 
-## Tech Roulette Projects
+## Tech Roulette Projects (July 2021 - August 2021)
 Execute Big's Tech Roulette program allows participants to explore different fields of technology through building a randomly selected project every week.
 - To-Do List application using React: https://github.com/jbian92/To-Do-List 
 - Netflix Data Visualization using Python Pyplot: https://github.com/jbian92/Netflix-Data-Visualization 

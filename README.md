@@ -12,4 +12,5 @@ Execute Big's Tech Roulette program allows participants to explore different fie
   - Identifies handwritten single digits (0-9)
   - Differentiates between cat and dog faces
 - Phonebook using Bash scripting: https://github.com/jbian92/Phonebook 
+- Caesar Cipher webpage using JavaScript: https://github.com/jbian92/Caesar-Cipher
 - Titanic Shipwreck Model using machine learning and Kaggle's Titanic data set: https://github.com/jbian92/Titanic-Shipwreck-Model 

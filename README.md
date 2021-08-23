@@ -6,6 +6,7 @@
 Execute Big's Tech Roulette program allows participants to explore different fields of technology through building a randomly selected project every week.
 - To-Do List application using React: https://github.com/jbian92/To-Do-List 
 - Netflix Data Visualization using Python Pyplot: https://github.com/jbian92/Netflix-Data-Visualization 
+- New Tab Page using HTML, CSS, JavaScript, and WeatherAPI: https://github.com/jbian92/New-Tab-Page
 - Flappy Bird game using Kaboom.js: https://github.com/jbian92/Flappy-Bird
 - Image-Recognition Models using machine learning: https://github.com/jbian92/Convolutional-Neural-Networks
   - Identifies handwritten single digits (0-9)
